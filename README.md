@@ -5,5 +5,5 @@ Each time the snake eats a piece of food, its tail grows longer, making the game
 The user controls the direction of the snake's head (up, down, left, or right), and the snake's body follows.
 (it can only play with keyboard keys)
 
-[ Link ] ( https://shravni21.github.io/Snake-game/ )
+[ Link ]( https://shravni21.github.io/Snake-game/ )
 
